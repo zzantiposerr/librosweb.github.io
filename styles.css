@@ -120,6 +120,11 @@ body{
     display: inline-block;
 }
 
+.carru{
+    width: 100%;
+    padding: 0%;
+}
+
 #carouselExampleCaptions{
     width: 45%;
     margin: 0 auto;
